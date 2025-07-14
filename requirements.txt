@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+serpapi
+python-dotenv
+gitpython
+# ... any others you need
